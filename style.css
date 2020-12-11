@@ -1,0 +1,37 @@
+body{
+    background-color:lightblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+h3{
+    background-color:steelblue ;
+
+}
+
+p{
+    font-size: 0.24cm;
+}
+
+.desplaz{
+    font-size: 0.24cm;
+    font-style: italic;
+}
+.white{
+    color: white;
+    background-color:darkturquoise
+}
+
+.blanco{
+  font-size: 0.20cm;  
+  background-color: white;
+}
+
+footer{
+    text-align: right;
+    font-size: 0.20cm;
+}
